@@ -1,0 +1,51 @@
+[
+    {
+      "nama": "Asep",
+      "absen": 1,
+      "kelas": "X",
+      "jurusan": "IPA",
+      "id": 111,
+      "nilai": {
+        "BahasaJepang": 81,
+        "BahasaInggris": 68,
+        "PraktekKejuruan": 87
+      }
+    },
+    {
+      "nama": "Joko",
+      "absen": 13,
+      "kelas": "X",
+      "jurusan": "IPS",
+      "id": 211,
+      "nilai": {
+        "BahasaJepang": 70,
+        "BahasaInggris": 50,
+        "PraktekKejuruan": 75
+      }
+    },
+    {
+      "nama": "Rahman",
+      "absen": 3,
+      "kelas": "X",
+      "jurusan": "Akutansi",
+      "id": 311,
+      "nilai": {
+        "BahasaJepang": 61,
+        "BahasaInggris": 80,
+        "PraktekKejuruan": 68
+      }
+    },
+    {
+      "nama": "Widya",
+      "absen": 4,
+      "kelas": "XI",
+      "jurusan": "Rekayasa Perangkat Lunak",
+      "id": 411,
+      "nilai": {
+        "BahasaJepang": 90,
+        "BahasaInggris": 76,
+        "PraktekKejuruan": 92
+      }
+    }
+  ]
+  
