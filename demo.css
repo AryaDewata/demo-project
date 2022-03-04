@@ -2,7 +2,8 @@
 .background-home {
     /* background-image: url('../asset/img/nft\ background.png'); */
     background-image: url('https://images4.alphacoders.com/793/thumb-1920-793524.jpg');
-    /* background-repeat: no-repeat, repeat; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 100%;
     width: 100%;
 }
