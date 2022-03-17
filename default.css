@@ -132,6 +132,7 @@ h1, h2, h3, h4, h5, h6 {
     }
     /* navbar */
     .navbar {
+        overflow: hidden;
         width: 94%;
     }
 
@@ -143,9 +144,6 @@ h1, h2, h3, h4, h5, h6 {
     /* about */
     .card {
         margin: 5px auto;
-    }
-    #about .row .col-md-4 .card{
-        margin: auto 50px 50px;
     }
 
     /* footer */
